@@ -1,0 +1,2 @@
+<!doctype html><html><head><title>Campus Resolve</title><link rel="stylesheet" href="css/app.css"></head>
+<body class="landing"><main class="hero"><p class="eyebrow">AI-ASSISTED CAMPUS CARE</p><h1>Campus <span>Resolve</span></h1><p class="lead">One clear place to report, track, and resolve the issues that shape campus life.</p><a class="button" href="login.jsp">Open portal</a><a class="button secondary" href="register.jsp">Create student account</a></main></body></html>
