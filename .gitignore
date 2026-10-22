@@ -3,12 +3,12 @@ target/
 .env
 .env.*
 !.env.example
+config.properties
 *.pem
 *.key
 .idea/
 .vscode/
+*.iml
 *.log
 Thumbs.db
 .DS_Store
-
-config.properties
